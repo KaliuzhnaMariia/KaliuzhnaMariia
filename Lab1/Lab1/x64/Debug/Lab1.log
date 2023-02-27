@@ -1,0 +1,5 @@
+﻿  Lab1.cpp
+C:\Users\User\Desktop\Git\KaliuzhnaMariia\Lab1\Lab1\Lab1.cpp(52,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\Git\KaliuzhnaMariia\Lab1\Lab1\Lab1.cpp(75,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\Git\KaliuzhnaMariia\Lab1\Lab1\Lab1.cpp(151): warning C4172: возвращение адреса локальной или временной переменной : A
+  Lab1.vcxproj -> C:\Users\User\Desktop\Git\KaliuzhnaMariia\Lab1\x64\Debug\Lab1.exe
